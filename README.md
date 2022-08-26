@@ -1,0 +1,2 @@
+# quicksnip
+Quickly snips photos
